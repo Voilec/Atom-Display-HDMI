@@ -1,0 +1,10 @@
+Lire cette page explicative : https://www.voilec.com/pages/Atom_PSRAM.php
+
+l’Atom Display HDMI.
+Quelques-uns des programmes pour découvrir et tester les possibilités de ce produit sous l’IDE Arduino
+Les exemples trouvés dans les bibliothèques finissent par marcher, mais les affichages sont très lents !
+
+/////////////////////////////////////////////////
+Christian Couderc   www.voilec.com
+Copyright 2024
+
